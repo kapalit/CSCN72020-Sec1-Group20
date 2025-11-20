@@ -355,7 +355,7 @@ namespace SmartClassroom.Tests
             //Act
             double score = _calculator.Calculate(22.0, 45.0, 1600.0);
 
-            // Assert
+            //Assert
             Assert.That(score, Is.LessThan(80.0));
         }
 
