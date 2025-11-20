@@ -1,0 +1,10 @@
+﻿<Window x:Class="SmartClassroom.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:SmartClassroom"
+        xmlns:views="clr-namespace:SmartClassroom.GUI.Views"
+        Title="Smart Classroom" Height="450" Width="800">
+
+    
+    <Grid/>
+</Window>

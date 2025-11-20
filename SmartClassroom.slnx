@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="SMartClassroom.Core/SmartClassroom.Core.csproj" />
+  <Project Path="SmartClassroom.Demo/SmartClassroom.Demo.csproj" />
+  <Project Path="SmartClassroom.EnvironmentModule/SmartClassroom.EnvironmentModule.csproj" />
+  <Project Path="SmartClassroom.Tests/SmartClassroom.Tests.csproj" />
+</Solution>
